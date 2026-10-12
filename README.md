@@ -63,7 +63,7 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("com.github.junaid-apk:appupdatekit:2.0.0")
+    implementation("com.github.junaid-apk:appupdatekit:2.0.1")
 }
 ```
 
@@ -284,14 +284,14 @@ translate it into:
 | String | Default |
 |---|---|
 | `auk_required_title` | Update required |
-| `auk_required_message` | This version is no longer supported. Please update to the latest version to keep using the app. … |
+| `auk_required_message` | This version is no longer supported. Please update to the latest version to keep using the app. |
 | `auk_update_now` | Update now |
 | `auk_recommended_title` | New version available |
 | `auk_recommended_message` | A newer version with improvements and fixes is ready. Update now for the best experience. |
 | `auk_update` | Update |
 | `auk_later` | Later |
 | `auk_maintenance_title` | Under maintenance |
-| `auk_maintenance_message` | We're making some improvements and will be back shortly. … |
+| `auk_maintenance_message` | We're making some improvements and will be back shortly. |
 | `auk_try_again` | Try again |
 | `auk_current_version` | Installed version %1$s |
 

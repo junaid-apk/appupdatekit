@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="auk_required_title">Требуется обновление</string>
-    <string name="auk_required_message">Эта версия больше не поддерживается. Обновите приложение до последней версии, чтобы продолжить им пользоваться. Ваши данные в безопасности на этом устройстве.</string>
+    <string name="auk_required_message">Эта версия больше не поддерживается. Обновите приложение до последней версии, чтобы продолжить им пользоваться.</string>
     <string name="auk_recommended_title">Доступна новая версия</string>
     <string name="auk_recommended_message">Готова новая версия с улучшениями и исправлениями. Обновите сейчас, чтобы получить лучший опыт.</string>
     <string name="auk_update_now">Обновить сейчас</string>
     <string name="auk_update">Обновить</string>
     <string name="auk_later">Позже</string>
     <string name="auk_maintenance_title">Технические работы</string>
-    <string name="auk_maintenance_message">Мы вносим некоторые улучшения и скоро вернёмся. Ваши данные в безопасности на этом устройстве.</string>
+    <string name="auk_maintenance_message">Мы вносим некоторые улучшения и скоро вернёмся.</string>
     <string name="auk_try_again">Попробовать снова</string>
     <string name="auk_current_version">Установленная версия %1$s</string>
 </resources>

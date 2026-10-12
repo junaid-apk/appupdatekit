@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="auk_required_title">Mise à jour requise</string>
-    <string name="auk_required_message">Cette version n\'est plus prise en charge. Veuillez passer à la dernière version pour continuer à utiliser l\'application. Vos données restent en sécurité sur cet appareil.</string>
+    <string name="auk_required_message">Cette version n\'est plus prise en charge. Veuillez passer à la dernière version pour continuer à utiliser l\'application.</string>
     <string name="auk_recommended_title">Nouvelle version disponible</string>
     <string name="auk_recommended_message">Une version plus récente, avec des améliorations et des corrections, est prête. Mettez à jour dès maintenant pour profiter de la meilleure expérience.</string>
     <string name="auk_update_now">Mettre à jour maintenant</string>
     <string name="auk_update">Mettre à jour</string>
     <string name="auk_later">Plus tard</string>
     <string name="auk_maintenance_title">En maintenance</string>
-    <string name="auk_maintenance_message">Nous apportons quelques améliorations et revenons très bientôt. Vos données restent en sécurité sur cet appareil.</string>
+    <string name="auk_maintenance_message">Nous apportons quelques améliorations et revenons très bientôt.</string>
     <string name="auk_try_again">Réessayer</string>
     <string name="auk_current_version">Version installée %1$s</string>
 </resources>

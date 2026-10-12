@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="auk_required_title">アップデートが必要です</string>
-    <string name="auk_required_message">このバージョンはサポートが終了しました。アプリを引き続きご利用いただくには、最新バージョンにアップデートしてください。データはこの端末上で安全に保たれます。</string>
+    <string name="auk_required_message">このバージョンはサポートが終了しました。アプリを引き続きご利用いただくには、最新バージョンにアップデートしてください。</string>
     <string name="auk_recommended_title">新しいバージョンがあります</string>
     <string name="auk_recommended_message">改善と修正を含む新しいバージョンの準備ができました。今すぐアップデートして、より良い体験をお楽しみください。</string>
     <string name="auk_update_now">今すぐアップデート</string>
     <string name="auk_update">アップデート</string>
     <string name="auk_later">あとで</string>
     <string name="auk_maintenance_title">メンテナンス中</string>
-    <string name="auk_maintenance_message">いくつか改善作業を行っており、まもなく再開します。データはこの端末に安全に保存されたままです。</string>
+    <string name="auk_maintenance_message">いくつか改善作業を行っており、まもなく再開します。</string>
     <string name="auk_try_again">再試行</string>
     <string name="auk_current_version">インストール済みバージョン %1$s</string>
 </resources>

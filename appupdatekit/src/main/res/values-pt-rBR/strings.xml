@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="auk_required_title">Atualização necessária</string>
-    <string name="auk_required_message">Esta versão não é mais compatível. Atualize para a versão mais recente para continuar usando o app. Seus dados continuam seguros neste dispositivo.</string>
+    <string name="auk_required_message">Esta versão não é mais compatível. Atualize para a versão mais recente para continuar usando o app.</string>
     <string name="auk_recommended_title">Nova versão disponível</string>
     <string name="auk_recommended_message">Uma versão mais recente, com melhorias e correções, está pronta. Atualize agora para aproveitar a melhor experiência.</string>
     <string name="auk_update_now">Atualizar agora</string>
     <string name="auk_update">Atualizar</string>
     <string name="auk_later">Mais tarde</string>
     <string name="auk_maintenance_title">Em manutenção</string>
-    <string name="auk_maintenance_message">Estamos fazendo algumas melhorias e voltaremos em breve. Seus dados continuam seguros neste dispositivo.</string>
+    <string name="auk_maintenance_message">Estamos fazendo algumas melhorias e voltaremos em breve.</string>
     <string name="auk_try_again">Tentar novamente</string>
     <string name="auk_current_version">Versão instalada %1$s</string>
 </resources>

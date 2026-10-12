@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="auk_required_title">اپ ڈیٹ ضروری ہے</string>
-    <string name="auk_required_message">یہ ورژن اب مزید سپورٹ نہیں ہوتا۔ ایپ استعمال کرتے رہنے کے لیے براہ کرم تازہ ترین ورژن پر اپ ڈیٹ کریں۔ آپ کا ڈیٹا اس ڈیوائس پر محفوظ رہتا ہے۔</string>
+    <string name="auk_required_message">یہ ورژن اب مزید سپورٹ نہیں ہوتا۔ ایپ استعمال کرتے رہنے کے لیے براہ کرم تازہ ترین ورژن پر اپ ڈیٹ کریں۔</string>
     <string name="auk_recommended_title">نیا ورژن دستیاب ہے</string>
     <string name="auk_recommended_message">بہتریوں اور اصلاحات کے ساتھ ایک نیا ورژن تیار ہے۔ بہترین تجربے کے لیے ابھی اپ ڈیٹ کریں۔</string>
     <string name="auk_update_now">ابھی اپ ڈیٹ کریں</string>
     <string name="auk_update">اپ ڈیٹ کریں</string>
     <string name="auk_later">بعد میں</string>
     <string name="auk_maintenance_title">دیکھ بھال جاری ہے</string>
-    <string name="auk_maintenance_message">ہم کچھ بہتری کر رہے ہیں اور جلد واپس آئیں گے۔ آپ کا ڈیٹا اس ڈیوائس پر محفوظ رہتا ہے۔</string>
+    <string name="auk_maintenance_message">ہم کچھ بہتری کر رہے ہیں اور جلد واپس آئیں گے۔</string>
     <string name="auk_try_again">دوبارہ کوشش کریں</string>
     <string name="auk_current_version">انسٹال شدہ ورژن %1$s</string>
 </resources>

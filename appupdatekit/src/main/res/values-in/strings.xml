@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="auk_required_title">Pembaruan diperlukan</string>
-    <string name="auk_required_message">Versi ini tidak lagi didukung. Silakan perbarui ke versi terbaru agar tetap dapat menggunakan aplikasi. Data Anda tetap aman di perangkat ini.</string>
+    <string name="auk_required_message">Versi ini tidak lagi didukung. Silakan perbarui ke versi terbaru agar tetap dapat menggunakan aplikasi.</string>
     <string name="auk_recommended_title">Versi baru tersedia</string>
     <string name="auk_recommended_message">Versi terbaru dengan peningkatan dan perbaikan sudah siap. Perbarui sekarang untuk pengalaman terbaik.</string>
     <string name="auk_update_now">Perbarui sekarang</string>
     <string name="auk_update">Perbarui</string>
     <string name="auk_later">Nanti</string>
     <string name="auk_maintenance_title">Sedang dalam pemeliharaan</string>
-    <string name="auk_maintenance_message">Kami sedang melakukan beberapa peningkatan dan akan segera kembali. Data Anda tetap aman di perangkat ini.</string>
+    <string name="auk_maintenance_message">Kami sedang melakukan beberapa peningkatan dan akan segera kembali.</string>
     <string name="auk_try_again">Coba lagi</string>
     <string name="auk_current_version">Versi terpasang %1$s</string>
 </resources>
