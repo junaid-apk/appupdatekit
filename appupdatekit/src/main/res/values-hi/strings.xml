@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auk_required_title">अपडेट आवश्यक है</string>
+    <string name="auk_required_message">यह वर्शन अब समर्थित नहीं है। ऐप का उपयोग जारी रखने के लिए कृपया नवीनतम वर्शन पर अपडेट करें। आपका डेटा इस डिवाइस पर सुरक्षित रहता है।</string>
+    <string name="auk_recommended_title">नया वर्शन उपलब्ध है</string>
+    <string name="auk_recommended_message">सुधार और फ़िक्स के साथ एक नया वर्शन तैयार है। सबसे अच्छे अनुभव के लिए अभी अपडेट करें।</string>
+    <string name="auk_update_now">अभी अपडेट करें</string>
+    <string name="auk_update">अपडेट करें</string>
+    <string name="auk_later">बाद में</string>
+    <string name="auk_maintenance_title">रखरखाव जारी है</string>
+    <string name="auk_maintenance_message">हम कुछ सुधार कर रहे हैं और जल्द ही वापस आएंगे। आपका डेटा इस डिवाइस पर सुरक्षित रहता है।</string>
+    <string name="auk_try_again">फिर से कोशिश करें</string>
+    <string name="auk_current_version">इंस्टॉल किया गया वर्शन %1$s</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auk_required_title">Güncelleme gerekli</string>
+    <string name="auk_required_message">Bu sürüm artık desteklenmiyor. Uygulamayı kullanmaya devam etmek için lütfen en son sürüme güncelleyin. Verileriniz bu cihazda güvende kalır.</string>
+    <string name="auk_recommended_title">Yeni sürüm mevcut</string>
+    <string name="auk_recommended_message">İyileştirmeler ve düzeltmeler içeren daha yeni bir sürüm hazır. En iyi deneyim için hemen güncelleyin.</string>
+    <string name="auk_update_now">Şimdi güncelle</string>
+    <string name="auk_update">Güncelle</string>
+    <string name="auk_later">Daha sonra</string>
+    <string name="auk_maintenance_title">Bakımda</string>
+    <string name="auk_maintenance_message">Bazı iyileştirmeler yapıyoruz, kısa süre içinde geri döneceğiz. Verileriniz bu cihazda güvende kalmaya devam ediyor.</string>
+    <string name="auk_try_again">Tekrar dene</string>
+    <string name="auk_current_version">Yüklü sürüm %1$s</string>
+</resources>

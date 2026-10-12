@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auk_required_title">Update required</string>
+    <string name="auk_required_message">This version is no longer supported. Please update to the latest version to keep using the app. Your data stays safe on this device.</string>
+    <string name="auk_recommended_title">New version available</string>
+    <string name="auk_recommended_message">A newer version with improvements and fixes is ready. Update now for the best experience.</string>
+    <string name="auk_update_now">Update now</string>
+    <string name="auk_update">Update</string>
+    <string name="auk_later">Later</string>
+    <string name="auk_maintenance_title">Under maintenance</string>
+    <string name="auk_maintenance_message">We\'re making some improvements and will be back shortly. Your data stays safe on this device.</string>
+    <string name="auk_try_again">Try again</string>
+    <string name="auk_current_version">Installed version %1$s</string>
+
+    <!-- Developer tools rows (debug builds only) -->
+    <string name="auk_dev_required" translatable="false">Simulate forced update</string>
+    <string name="auk_dev_required_sub" translatable="false">Full-screen block until the app is force-stopped</string>
+    <string name="auk_dev_recommended" translatable="false">Simulate recommended update</string>
+    <string name="auk_dev_recommended_sub" translatable="false">Dismissible dialog</string>
+    <string name="auk_dev_maintenance" translatable="false">Simulate maintenance</string>
+    <string name="auk_dev_maintenance_sub" translatable="false">Full-screen block until the app is force-stopped</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auk_required_title">تحديث مطلوب</string>
+    <string name="auk_required_message">هذا الإصدار لم يعد مدعومًا. يرجى التحديث إلى أحدث إصدار لمواصلة استخدام التطبيق. بياناتك تبقى آمنة على هذا الجهاز.</string>
+    <string name="auk_recommended_title">إصدار جديد متاح</string>
+    <string name="auk_recommended_message">إصدار أحدث يتضمن تحسينات وإصلاحات أصبح جاهزًا. قم بالتحديث الآن للحصول على أفضل تجربة.</string>
+    <string name="auk_update_now">تحديث الآن</string>
+    <string name="auk_update">تحديث</string>
+    <string name="auk_later">لاحقًا</string>
+    <string name="auk_maintenance_title">تحت الصيانة</string>
+    <string name="auk_maintenance_message">نُجري بعض التحسينات وسنعود قريبًا. تبقى بياناتك آمنة على هذا الجهاز.</string>
+    <string name="auk_try_again">حاول مرة أخرى</string>
+    <string name="auk_current_version">الإصدار المثبت %1$s</string>
+</resources>
